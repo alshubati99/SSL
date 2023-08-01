@@ -1,13 +1,11 @@
 # Learning SSL/TLS
 ## [Course Certificate](https://www.linkedin.com/learning/certificates/9e048b14b8b31b946a80bf3047496b4a2d122b7fe990ce95ec42f54dc247b6ef)
 
-<<<<<<< HEAD
-||||||| 1a29e3f
+
 <!-- This is to Understand Code Sign Process -->
 =======
 > This is to Understand Code Sign Process <br>
-----
->>>>>>> b899f37f003ac181e810752101ddd3b2798071aa
+
 
 1. ### Environment:
     - Microsoft Windows Server Machine: to support PKI & active directory domain.
